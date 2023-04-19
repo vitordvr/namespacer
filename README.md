@@ -162,5 +162,7 @@ class "Dog" {
  - [MTA-Classes](https://wiki.multitheftauto.com/wiki/Useful_Classes)
 
 
+<br>
 
-@LICENSE: MIT - [flashii](https://github.com/flashiie)
+#LICENSE: 
+MIT License ©- [flashii](https://github.com/flashiie)

@@ -50,7 +50,6 @@ class "Dog" {
 **Introduzindo**: Talvez você precise implementar ou estender alguma outra classe, não é mesmo? Por isso, no namespace, você pode chamar simplesmente a função "extends". Assim, todos os sub-objetos públicos e privados serão herdados sem maiores problemas.
 ```lua
 class "Dono" {
-
     extends "Dog";
 
     public {
@@ -94,7 +93,6 @@ Operadores:  O Porte Namespacer também possui uma serie de operadores logicos q
 
 ```lua
 class "Math" {
-
     extends "Dog";
 
     public {

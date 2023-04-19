@@ -165,4 +165,4 @@ class "Dog" {
 <br>
 
 ## LICENSE
-MIT License ©- [flashii](https://github.com/flashiie)
+MIT License © [Vítor Ribeiro](https://github.com/flashiie)

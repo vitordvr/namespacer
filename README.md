@@ -160,7 +160,8 @@ class "Dog" {
 
  - [lua-pie](https://github.com/SvenMarcus)
  - [MTA-Classes](https://wiki.multitheftauto.com/wiki/Useful_Classes)
-
+ - [lua-garbarage](https://www.tutorialspoint.com/lua/lua_garbage_collection.htm)
+ - [lua-execution](https://www.lua.org/pil/8.html)
 
 <br>
 

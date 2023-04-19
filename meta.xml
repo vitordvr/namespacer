@@ -1,0 +1,12 @@
+<meta>
+  <script src="src/sandbox/util.lua" type="shared" cache="false" />
+  <script src="src/sandbox/class.lua" type="shared" cache="false" />
+  <script src="src/sandbox/interface.lua" type="shared" cache="false" />
+  <script src="src/sandbox/__init__.lua" type="shared" cache="false" />
+
+  <script src="src/utils/file.lua" type="shared" cache="false" />
+  <script src="src/handlers/bundler/index.lua" type="shared" cache="false" />
+
+
+  <export function="bundler" type="shared"/>
+</meta>

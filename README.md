@@ -156,7 +156,7 @@ class "Dog" {
 ```
 
 
-## Referencias
+## Referencias 🎲
 
  - [lua-pie](https://github.com/SvenMarcus)
  - [MTA-Classes](https://wiki.multitheftauto.com/wiki/Useful_Classes)
@@ -164,5 +164,5 @@ class "Dog" {
 
 <br>
 
-## LICENSE
+## LICENSE 🗒️
 MIT License © [Vítor Ribeiro](https://github.com/flashiie)
